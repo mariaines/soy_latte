@@ -1,4 +1,4 @@
-soy_latte
+wordplay
 =========
 
-Cool music lyrics video thing.
+Wordplay is a webapp that generates a cool lyrics video for a song.
