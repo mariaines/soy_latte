@@ -1,0 +1,12 @@
+#canvas {
+  width: 700px;
+  height: 400px;
+  padding: 30px;
+  margin: 10px auto;
+}
+
+.word {
+  position: relative;
+  font-family: Courier;
+  font-size: 36px;
+}
