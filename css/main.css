@@ -3,10 +3,11 @@
   height: 400px;
   padding: 30px;
   margin: 10px auto;
+  position: fixed;
 }
 
 .word {
-  position: relative;
+  position: absolute;
   font-family: Courier;
   font-size: 36px;
 }

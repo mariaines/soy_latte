@@ -17,5 +17,6 @@ function addWord(word) {
       .html(word)
       .appendTo(canvas)
       .css("top", Math.random()*400 + "px")
-      .css("left", Math.random()*700 + "px");
+      .css("left", Math.random()*700 + "px")
+      .delay(5000).fadeOut('fast');
 }
