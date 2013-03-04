@@ -3,7 +3,7 @@
   height: 400px;
   padding: 30px;
   margin: 10px auto;
-  position: fixed;
+  position: relative;
 }
 
 .word {
