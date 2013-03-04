@@ -1,0 +1,6 @@
+One	0
+two	1000
+three	1500
+four	2000
+five	4000
+six	5000
